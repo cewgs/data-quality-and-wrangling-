@@ -9,7 +9,7 @@ It provides the code and data used throughout the project.
 
 | Path | Description |
 |------|--------------|
-| `world/` | CSV data files (2015–2019) |
+| `world happiness report files` | CSV data files (2015–2019) |
 | `data_wrangling.ipynb` | Colab notebook |
 | `README.md` | Project information |
 
